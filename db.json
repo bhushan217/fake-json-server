@@ -1,0 +1,39 @@
+{
+  "posts": [],
+  "comments": [],
+  "courses": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Bhushan K",
+      "username": "bhushank",
+      "email": "bhushank@rukbal.in",
+      "address": {
+        "street": "MG Road",
+        "suite": "Apt. 1",
+        "city": "Mumbai",
+        "zipcode": "400086"
+      },
+      "phone": "91-977-736-8031",
+      "website": "rukbal.in",
+      "company": {
+        "name": "Ruk Bal & Sons",
+        "catchPhrase": "Multi-layered client-server SPA Microservices"
+      }
+    }
+  ],
+  "todos": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "delectus aut autem",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "quis ut nam facilis et officia qui",
+      "completed": false
+    }
+  ],
+}
